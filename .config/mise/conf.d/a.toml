@@ -1,0 +1,5 @@
+[tasks.typos]
+run = "typos"
+
+[tasks.typos.tools]
+"aqua:crate-ci/typos" = "1.52.0"

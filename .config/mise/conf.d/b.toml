@@ -1,0 +1,5 @@
+[tasks.shear]
+run = "cargo shear"
+
+[tasks.shear.tools]
+"github:Boshen/cargo-shear" = "1.14"
